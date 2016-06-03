@@ -1,1 +1,1 @@
-Read me, test file.
+This will be a project in LabVIEW, for steganography tryout (crypt message inside of the image file).
